@@ -3,7 +3,7 @@ Employer Review About Their Organization
 
 <hr>
 
-# Background
+## Background
 ![dataset.png](https://raw.githubusercontent.com/ReynaraEzra/Employer-Review/main/images/Indeed%20Review.png)
 Employer Review is a form that refers to content written by an employer or employee against his company that can be uploaded publicly or not. Every organization certainly needs someone to move the organization. Therefore, every review given to a product, service, or related to the company will certainly have an impact on the company. Every review, whether positive or negative, will influence the decision of a person or group of people who want to join, use services, or buy products from the company. By knowing how the reviews given by employees to the company, it is hoped that the company can evaluate if there are many negative reviews or maintain performance and continue to innovate if there are positive reviews.
 
