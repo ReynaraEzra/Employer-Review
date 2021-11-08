@@ -18,7 +18,7 @@ Description of columns:
 | Columns                           |   Description                                                     |
 |:----------------------------------|------------------------------------------------------------------:|
 | **ReviewTitle**                   | The topic of the review.                                          |
-| **CompleteReview**                | rating from the reviewer, from 1 (unsatisfied) to 5 (satisfied)   |
+| **CompleteReview**                | Review from employees                                             |
 | **URL**                           | Uniform Resource Locator                                          |
 | **Rating**                        | The rating given by company employees                             |
 | **ReviewDetails**                 | Details about reviews.                                            |
